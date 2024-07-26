@@ -1,7 +1,3 @@
-Sure, here's a more fluent and engaging version with emojis added for emphasis:
-
----
-
 **Updating my CV** to include recent experiences and skills acquired in the field of software engineering and data science. [Download Raw File](https://github.com/Suman-Chhetri/cv)
 
 **Note:** The following details are not included in the CV but are provided here for context:
